@@ -15,9 +15,12 @@ namespace H1Array1
             for (int i = 0; i < 9; i++)
             {
                 tal[i] = i;
+                if (i == 5)
+                {
+                    Console.WriteLine("jeg fandt dig nr 5");
+                    tal[i] *= 2;
+                }
             }
-            Console.WriteLine(tal[5]);
-            tal[5] *= 2;
 
             Console.ReadKey();
         }
