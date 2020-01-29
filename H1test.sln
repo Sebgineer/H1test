@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1arrays_øvelse2", "H1arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1arrays_øvelse3", "H1arrays_øvelse3\H1arrays_øvelse3.csproj", "{2C856386-C13E-4FED-964B-C46FF2A9A83E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1Lotto", "H1Lotto\H1Lotto.csproj", "{46C12098-F932-4B50-B1AF-A20259FD59D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2C856386-C13E-4FED-964B-C46FF2A9A83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C856386-C13E-4FED-964B-C46FF2A9A83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C856386-C13E-4FED-964B-C46FF2A9A83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C12098-F932-4B50-B1AF-A20259FD59D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C12098-F932-4B50-B1AF-A20259FD59D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C12098-F932-4B50-B1AF-A20259FD59D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C12098-F932-4B50-B1AF-A20259FD59D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
