@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1Array1", "H1Array1\H1Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1arrays_øvelse1", "H1arrays_øvelse1\H1arrays_øvelse1.csproj", "{BC021831-492D-4693-AD63-B5C81D72E5E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1arrays_øvelse2", "H1arrays_øvelse2\H1arrays_øvelse2.csproj", "{DF853C8F-7E32-434D-B267-B112B4DFA9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BC021831-492D-4693-AD63-B5C81D72E5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC021831-492D-4693-AD63-B5C81D72E5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC021831-492D-4693-AD63-B5C81D72E5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF853C8F-7E32-434D-B267-B112B4DFA9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF853C8F-7E32-434D-B267-B112B4DFA9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF853C8F-7E32-434D-B267-B112B4DFA9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF853C8F-7E32-434D-B267-B112B4DFA9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

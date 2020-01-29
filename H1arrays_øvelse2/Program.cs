@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Threading;
 
-namespace H1test
+namespace H1arrays_øvelse2
 {
     class Program
     {
-        static string[] DrengeNavne = { "william", "oliver", "noah", "emil", "victor", "magnus", "frederik", "mikkel", "lucas", "alexander", "oscar", "mathias", "sebastian", "malte", "elias", "christian", "mads", "gustav", "villads"};
+        static string[] DrengeNavne = { "william", "oliver", "noah", "emil", "victor", "magnus", "frederik", "mikkel", "lucas", "alexander", "oscar", "mathias", "sebastian", "malte", "elias", "christian", "mads", "gustav", "villads" };
         static void Main(string[] args)
         {
             while (true)
@@ -28,4 +27,3 @@ namespace H1test
         }
     }
 }
-
