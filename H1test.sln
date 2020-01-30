@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1Lotto", "H1Lotto\H1Lotto.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1Mozard", "H1Mozard\H1Mozard.csproj", "{10443894-4F79-4D18-8332-C9CAD48501CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1gæt1tal", "H1gæt1tal\H1gæt1tal.csproj", "{24951BBE-FBC6-4258-B627-2B36D16AA1D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{10443894-4F79-4D18-8332-C9CAD48501CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10443894-4F79-4D18-8332-C9CAD48501CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10443894-4F79-4D18-8332-C9CAD48501CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24951BBE-FBC6-4258-B627-2B36D16AA1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24951BBE-FBC6-4258-B627-2B36D16AA1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24951BBE-FBC6-4258-B627-2B36D16AA1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24951BBE-FBC6-4258-B627-2B36D16AA1D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
